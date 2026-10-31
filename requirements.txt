@@ -1,0 +1,8 @@
+# Virtual Mouse Using Hand Gestures - Dependencies
+# Python 3.8 - 3.12 compatible (pin mediapipe==0.10.14 for solutions API)
+
+opencv-python>=4.8.0.76
+mediapipe==0.10.14
+pyautogui>=0.9.54
+numpy>=1.24.0,<2.0.0
+Pillow>=10.0.0
